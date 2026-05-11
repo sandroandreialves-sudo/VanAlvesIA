@@ -16,6 +16,7 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://netdefesa360.com.br'),
   title: 'NetDefesa 360 | Blindagem Inteligente para Condomínios',
   description: 'Reduza riscos operacionais, digitais e jurídicos com um diagnóstico integrado de segurança. Proteção completa para condomínios.',
   keywords: ['cybersecurity', 'segurança', 'condomínios', 'LGPD', 'gestão de riscos'],

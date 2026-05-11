@@ -1,7 +1,0 @@
-{
-  "name": "Van Alvesia - Assistente Jurídico",
-  "description": "Processador inteligente de reuniões jurídicas para o escritório Van Alvesia Advocacia, gerando fichas Odoo, análises e planos de ação.",
-  "requestFramePermissions": [
-    "microphone"
-  ]
-}

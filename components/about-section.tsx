@@ -73,7 +73,7 @@ export function AboutSection() {
                 />
                 
                 {/* Cinematic dark overlay */}
-                <div className="absolute inset-0 bg-gradient-to-t from-background via-background/20 to-transparent opacity-80" />
+                <div className="absolute inset-0 bg-gradient-to-t from-background/90 via-transparent to-transparent" />
                 
                 {/* Cyan rim light effect - left side */}
                 <div className="absolute inset-y-0 left-0 w-1/3 bg-gradient-to-r from-primary/20 to-transparent opacity-60" />
@@ -82,7 +82,7 @@ export function AboutSection() {
                 <div className="absolute inset-x-0 top-0 h-1/4 bg-gradient-to-b from-primary/10 to-transparent" />
                 
                 {/* Vignette effect */}
-                <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_center,transparent_40%,rgba(15,23,42,0.6)_100%)]" />
+                <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_center,transparent_50%,rgba(15,23,42,0.4)_100%)]" />
                 
                 {/* Scan line overlay for cinematic feel */}
                 <div className="absolute inset-0 bg-[repeating-linear-gradient(0deg,transparent,transparent_2px,rgba(0,0,0,0.03)_2px,rgba(0,0,0,0.03)_4px)] pointer-events-none" />
